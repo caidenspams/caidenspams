@@ -2,4 +2,4 @@
 </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caidenspams&theme=radical&layout=compact)
 </a>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caidenspams&repo=Amethyst-Bot
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caidenspams&repo=Amethyst-Bot)]
