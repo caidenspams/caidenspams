@@ -1,4 +1,4 @@
-<img src="https://github.com/caidenspams/caidenspams/blob/main/header.png">
+<h1 align="center">Hi 👋, I'm caidenspams</h1>
 <h3 align="center">I'm a JavaScript Dev. I'm come from Australia, living in Queensland.</h3>
 
 - 🔭 I’m currently working on [Amethyst](https://github.com/caidenspams/Amethyst-Bot)
@@ -37,8 +37,11 @@
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
 
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dwd75hj1tt318r9d3s8gvqndo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dwd75hj1tt318r9d3s8gvqndo&redirect=true)
