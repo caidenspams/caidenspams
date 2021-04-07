@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caidenspams&show_icons=true&theme=radical&locale=en" alt="caidenspams" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caidenspams&theme=radical&repo=caidenspams/Amethyst-Botr](https://github.com/caidenspams/Amethyst-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caidenspams&theme=radical&repo=caidenspams/Amethyst-Bot)](https://github.com/caidenspams/Amethyst-Bot)
 
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
