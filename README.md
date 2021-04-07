@@ -38,7 +38,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p align="center">
-  Last refresh: 
   <b><!--TIMESTAMP--></b>
 </p>
 
