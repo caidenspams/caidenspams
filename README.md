@@ -18,8 +18,6 @@
 </a>
 ![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 </a>
-![image](https://img.shields.io/github/followers/caidenspams?label=followers&style=flat)
-
 
 
 
