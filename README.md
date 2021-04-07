@@ -1,4 +1,4 @@
-[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M4MxWjJU4X)
+[![Discord](https://img.shields.io/discord/790654326804316221?label=discord&logo=Discord&style=flat)](https://discord.gg/M4MxWjJU4X "Join my Discord server")
 </a>
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caidenspams)
 </a>
@@ -15,6 +15,8 @@
 ![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 </a>
 ![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+</a>
+![GitHub followers](https://img.shields.io/github/followers/caidenspams?label=followers&style=flat)
 
 
 
