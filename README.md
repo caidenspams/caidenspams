@@ -37,10 +37,5 @@
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<p align="center">
-  <b><!--TIMESTAMP--></b>
-</p>
-
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dwd75hj1tt318r9d3s8gvqndo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dwd75hj1tt318r9d3s8gvqndo&redirect=true)
