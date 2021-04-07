@@ -35,8 +35,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caidenspams&theme=radical&repo=Amethyst-Bot)](https://github.com/caidenspams/Amethyst-Bot)
 
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dwd75hj1tt318r9d3s8gvqndo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dwd75hj1tt318r9d3s8gvqndo&redirect=true)
