@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm caidenspams</h1>
+<img src="https://github.com/caidenspams/caidenspams/blob/main/header.png">
 <h3 align="center">I'm a JavaScript Dev. I'm come from Australia, living in Queensland.</h3>
 
 - 🔭 I’m currently working on [Amethyst](https://github.com/caidenspams/Amethyst-Bot)
