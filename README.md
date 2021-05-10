@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, Node.js or Life**
 
-- 📫 How to reach me **My Discord Server: https://discord.gg/M4MxWjJU4X**
+- 📫 How to reach me **My Discord Server: https://discord.gg/Qcgj8Vvn4X**
 
 - ⚡ Fun fact **I'm in 8th grade**
 
