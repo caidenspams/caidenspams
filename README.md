@@ -1,28 +1,28 @@
 <img src="https://github.com/caidenspams/caidenspams/blob/main/header.png">
 <h3 align="center">I'm a JavaScript Dev. I'm from Australia, living in Queensland.</h3>
 
-- 🔭 I’m currently working on [Amethyst](https://github.com/caidenspams/Amethyst-Bot)
+- 🔭 I’m currently working on [Caiden's Website](https://github.com/caidenspams/caidenspams.github.io)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, HTML & CSS**
 
-- 👯 I’m looking to collaborate on **more bots and other JavaScript projects**
+- 👯 I’m looking to collaborate on **more bots, other JavaScript & HTML + CSS projects**
 
-- 🤝 I’m looking for help with [Amethyst](https://github.com/caidenspams/Amethyst-Bot)
+- 🤝 I’m looking for help with [Caiden's Website](https://github.com/caidenspams/caidenspams.github.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/caidenspams](https://github.com/caidenspams)
 
 - 💬 Ask me about **JavaScript, Node.js or Life**
 
-- 📫 How to reach me **My Discord Server: https://discord.gg/Qcgj8Vvn4X**
+- 📫 How to reach me **My Discord Server: Comming Soon**
 
-- ⚡ Fun fact **I'm in 8th grade**
+- ⚡ Fun fact **I'm in 9th grade**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/caidenspams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="caidenspams" height="30" width="40" /></a>
 <a href="https://fb.com/caiden spams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="caiden spams" height="30" width="40" /></a>
 <a href="https://instagram.com/caidenspams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="caidenspams" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/galaxyboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="galaxyboy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/caidenspams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="caidenspams" height="30" width="40" /></a>
 <a href="https://discord.gg/M4MxWjJU4X" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="M4MxWjJU4X" height="30" width="40" /></a>
 </p>
 
