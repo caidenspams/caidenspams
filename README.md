@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caidenspams&show_icons=true&theme=radical&locale=en" alt="caidenspams" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caidenspams&theme=radical&repo=Amethyst-Bot)](https://github.com/caidenspams/Amethyst-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caidenspams&theme=radical&repo=Amethyst-Bot)](https://github.com/caidenspams/caidenspams.github.io)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dwd75hj1tt318r9d3s8gvqndo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dwd75hj1tt318r9d3s8gvqndo&redirect=true)
